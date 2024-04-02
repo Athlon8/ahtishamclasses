@@ -22,6 +22,7 @@
       <div class="left" style="padding: 2%">
         <input v-model="search" placeholder="Search" />
         <p><strong>Sort By:</strong></p>
+        <!-- Below is the title -->
         <p>
           <input type="radio" id="title" value="Title" v-model="sort" />
           <label for="title">Title</label>
