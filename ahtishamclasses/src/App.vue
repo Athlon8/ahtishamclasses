@@ -110,7 +110,7 @@
   </div>
 </template>
 <script>
-// Below are the imported components
+
 import productList from "./components/products.vue";
 import checkout from "./components/orders.vue";
 
