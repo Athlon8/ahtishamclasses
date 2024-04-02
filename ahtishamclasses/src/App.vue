@@ -44,6 +44,7 @@
           <label for="availability">Availability</label>
         </p>
         <p><strong>Price Order:</strong></p>
+         <!-- Below there's an option to select the sort order -->
         <p>
           <input
             type="radio"
@@ -53,7 +54,6 @@
           />
           <label for="ascending">Ascending</label>
         </p>
-        <!-- Below there's an option to select the sort order -->
         <p>
           <input
             type="radio"
