@@ -30,6 +30,7 @@
           <input type="radio" id="location" value="Location" v-model="sort" />
           <label for="location">Location</label>
         </p>
+        <!-- Below it is for price -->
         <p>
           <input type="radio" id="price" value="Price" v-model="sort" />
           <label for="price">Price</label>
