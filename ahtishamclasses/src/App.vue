@@ -9,6 +9,7 @@
         v-if="cartItemCount > 0"
         style="cursor: pointer"
       >
+      <!-- Below is the count of the cart -->
         <span>{{ cartItemCount }}</span>
         <span class="fas fa-cart-plus"></span>
       </button>
