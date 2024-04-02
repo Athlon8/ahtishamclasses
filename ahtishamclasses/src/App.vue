@@ -68,6 +68,7 @@
         <!-- The main tag below is where all the content of the right side div be. Which includes 2 divs. The first one
                     is for displaying the order confirmation if the order is confirmed and the other one for displaying
                     the products and the cart.  -->
+                    <!-- Below the components are displayed -->
         <main>
           <div v-if="showProduct">
             <product-list
