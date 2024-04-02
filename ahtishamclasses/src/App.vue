@@ -53,6 +53,7 @@
           />
           <label for="ascending">Ascending</label>
         </p>
+        <!-- Below there's an option to select the sort order -->
         <p>
           <input
             type="radio"
