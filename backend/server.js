@@ -27,7 +27,7 @@ const MongoClient = require("mongodb").MongoClient;
 
 let db;
 
-MongoClient.connect('mongodb+srv://athlon:23rdfeb@cluster0.gfygabo.mongodb.net', (err, client) => {
+MongoClient.connect('http://localhost:3000', (err, client) => {
     db = client.db('ahtishamscourses');
 });
 
